@@ -1,4 +1,3 @@
-console.log('Starting notes.js..');
 const fs=require('fs');
 const chalk=require('chalk');
 const getNotes=()=>
